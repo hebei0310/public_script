@@ -3,7 +3,7 @@ const $ = new Env("王老吉");
     let body = $response.body;
 
     $.msg("文件替换成功");
-    $.done({body:body.replace("_0x1a7e04>=","_0x1a7e04=10000>=").replace("score':_0x1a7e04","score':10000")});
+    $.done({body:body.replace("_0x1f3bea>=","_0x1f3bea=10000>=").replace("score':_0x1f3bea","score':10000")});
 
 })();
 //prettier-ignore
